@@ -16,7 +16,7 @@
     width: 480px;
     height: 180px;
     display: block;
-    background: url('images/images1.gif');
+    background: url('images1.gif');
     background-size: cover;
     background-position: center;
     border: 10px solid rgba(198, 247, 253, 0.3);
@@ -69,7 +69,7 @@
     transform: translateX(-100%);
   }
   input:checked ~ label {
-    background: url('images/images2.gif');
+    background: url('images2.gif');
     background-size: cover;
     background-position: center;
     border: 10px solid rgba(90, 79, 136, 0.2);
